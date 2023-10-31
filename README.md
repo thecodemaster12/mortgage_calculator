@@ -5,7 +5,7 @@
 - React
 - Material UI
 
-## Acknowledgements
+## Links
 
  - [Project Demo](https://mortgage-cal.netlify.app/)
 
