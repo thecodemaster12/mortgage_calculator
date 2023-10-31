@@ -4,6 +4,7 @@ import SliderSelect from './components/SliderSelect';
 import TenureSelect from './components/TenureSelect';
 import Result from './components/Result';
 import { Container, Grid } from '@mui/material';
+import Footer from './components/Footer';
 
 
 function App() {
@@ -29,6 +30,7 @@ function App() {
           <Result data={data}/>
         </Grid>
       </Grid>
+        <Footer/>
     </Container>
       
     </>
