@@ -8,9 +8,9 @@ import { darkTheme } from './theme';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    {/* <ThemeProvider theme={darkTheme}> */}
+    <ThemeProvider theme={darkTheme}>
       <CssBaseline/>
       <App />
-    {/* </ThemeProvider> */}
+    </ThemeProvider>
   </React.StrictMode>,
 )
